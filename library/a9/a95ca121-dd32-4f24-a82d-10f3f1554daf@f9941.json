@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "clean shot",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 595,
+      "height": 348
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 595,
+      "height": 348
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "a95ca121-dd32-4f24-a82d-10f3f1554daf@6c48a",
+    "packable": true
+  }
+}

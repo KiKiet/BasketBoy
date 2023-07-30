@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "throw-05",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 174,
+      "height": 388
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 174,
+      "height": 388
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "0a9eb102-3e1c-4961-97c1-c96be0d02020@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "throw-06",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 24,
+      "width": 180,
+      "height": 365
+    },
+    "offset": {
+      "x": -25,
+      "y": -12
+    },
+    "originalSize": {
+      "width": 230,
+      "height": 389
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "c0f73fde-57d2-470e-b650-a18aeca9a93b@6c48a",
+    "packable": true
+  }
+}

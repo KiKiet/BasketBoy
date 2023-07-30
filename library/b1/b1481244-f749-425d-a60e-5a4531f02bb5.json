@@ -1,0 +1,7 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "game_data",
+  "_objFlags": 0,
+  "_native": "",
+  "text": "[\r\n    {\r\n        \"point\": \"2022-01-09T17:00:00.000Z\",\r\n        \"dotslength\": 40,\r\n        \"basketpos\": 2\r\n    },\r\n    {\r\n        \"point\": \"2022-11-19T17:00:00.000Z\",\r\n        \"dotslength\": 35,\r\n        \"basketpos\": 3\r\n    }\r\n]"
+}

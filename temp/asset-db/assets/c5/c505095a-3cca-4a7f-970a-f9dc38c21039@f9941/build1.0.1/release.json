@@ -1,0 +1,53 @@
+[
+    1,
+    [
+        "c5BQlaPMpKf5cK+dw4whA5@6c48a"
+    ],
+    [
+        "_textureSource"
+    ],
+    [
+        "cc.SpriteFrame"
+    ],
+    0,
+    [
+        {
+            "name": "throw-04",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 205,
+                "height": 360
+            },
+            "offset": {
+                "x": 0,
+                "y": 0
+            },
+            "originalSize": {
+                "width": 205,
+                "height": 360
+            },
+            "rotated": false,
+            "capInsets": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "packable": true
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]

@@ -1,0 +1,120 @@
+2022-06-20 12:03:15-log: [Package] Profile Migrate: engine@Cocos Creator...
+2022-06-20 12:03:15-log: [Package] Profile Migrate: project@Cocos Creator...
+2022-06-20 12:03:15-log: [Package] menu@1.0.0 enable
+2022-06-20 12:03:15-log: [Package] profile@1.0.0 enable
+2022-06-20 12:03:15-log: [Package] messages@1.0.0 enable
+2022-06-20 12:03:15-log: [Package] program@1.0.0 enable
+2022-06-20 12:03:15-log: [Package] device@1.0.1 enable
+2022-06-20 12:03:16-log: [Package] ui-kit@1.0.1 enable
+2022-06-20 12:03:16-log: [Package] tester@1.0.0 enable
+2022-06-20 12:03:16-log: [Package] preferences@1.0.0 enable
+2022-06-20 12:03:17-log: Setup mods mgr.: 1.006s
+2022-06-20 12:03:17-log: [Package] engine@1.0.5 enable
+2022-06-20 12:03:29-log: [Package] programming@1.0.0 enable
+2022-06-20 12:03:29-log: [Package] asset-db@1.0.0 enable
+2022-06-20 12:03:29-log: [Package] console@1.0.0 enable
+2022-06-20 12:03:29-log: [Package] scene@1.0.0 enable
+2022-06-20 12:03:29-log: [Package] project@1.0.1 enable
+2022-06-20 12:03:29-log: [Package] about@1.0.0 enable
+2022-06-20 12:03:30-log: [Package] server@1.0.0 enable
+2022-06-20 12:03:30-log: [Package] utils@1.0.0 enable
+2022-06-20 12:03:30-log: [Package] assets@1.0.0 enable
+2022-06-20 12:03:30-log: [Package] inspector@1.0.0 enable
+2022-06-20 12:03:30-log: [Package] hierarchy@1.0.0 enable
+2022-06-20 12:03:36-log: [Package] preview@1.0.1 enable
+2022-06-20 12:03:36-log: [Package] animator@1.0.0 enable
+2022-06-20 12:03:38-log: [Package] builder@1.2.9 enable
+2022-06-20 12:03:38-log: [Package] node-library@1.0.0 enable
+2022-06-20 12:03:38-log: [Package] shortcuts@1.0.1 enable
+2022-06-20 12:03:38-log: [Package] package-asset@1.0.0 enable
+2022-06-20 12:03:38-log: [Package] reference-image@1.0.0 enable
+2022-06-20 12:03:38-log: [Package] channel-upload-tools@1.0.0 enable
+2022-06-20 12:03:38-log: [Package] runtime-dev-tools@1.0.0 enable
+2022-06-20 12:03:39-log: [Package] alipay-mini-game@1.0.0 enable
+2022-06-20 12:03:39-log: [Package] android@1.0.0 enable
+2022-06-20 12:03:39-log: [Package] baidu-mini-game@1.0.0 enable
+2022-06-20 12:03:39-log: [Package] bytedance-mini-game@1.0.1 enable
+2022-06-20 12:03:39-log: [Package] huawei-agc@1.0.0 enable
+2022-06-20 12:03:39-log: [Package] ios@1.0.0 enable
+2022-06-20 12:03:39-log: [Package] ios-app-clip@1.0.0 enable
+2022-06-20 12:03:39-log: [Package] mac@1.0.0 enable
+2022-06-20 12:03:39-log: [Package] native@1.0.0 enable
+2022-06-20 12:03:39-log: [Package] ohos@1.0.0 enable
+2022-06-20 12:03:39-log: [Package] web-desktop@1.0.0 enable
+2022-06-20 12:03:40-log: [Package] web-mobile@1.0.0 enable
+2022-06-20 12:03:40-log: [Package] wechatgame@1.0.1 enable
+2022-06-20 12:03:40-log: [Package] windows@1.0.0 enable
+2022-06-20 12:03:40-log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-06-20 12:03:40-log: [Package] cocos-play@1.0.0 enable
+2022-06-20 12:03:40-log: [Package] huawei-quick-game@1.0.0 enable
+2022-06-20 12:03:40-log: [Package] link-sure@1.0.0 enable
+2022-06-20 12:03:40-log: [Package] oppo-mini-game@1.0.0 enable
+2022-06-20 12:03:40-log: [Package] qtt@1.0.0 enable
+2022-06-20 12:03:40-log: [Package] vivo-mini-game@1.0.0 enable
+2022-06-20 12:03:41-log: [Package] cocos-service@3.0.1 enable
+2022-06-20 12:03:41-log: [Package] importer@1.0.0 enable
+2022-06-20 12:03:42-log: [Package] extension@3.0.10 enable
+2022-06-20 12:03:43-log: [Im-plugin] Check im-plugin version.
+2022-06-20 12:03:43-log: [Package] im-plugin@3.0.7 enable
+2022-06-20 12:03:43-log: [Package] lightmap@1.0.3 enable
+2022-06-20 12:03:44-log: [Im-plugin] No online info of im-plugin.
+2022-06-20 12:04:01-warn: [Asset DB] Importer exec warning: {asset[C:\Users\king\Documents\Bootcamp-AthenaStudio-TranGiaKiet\basket-boy\assets\material.mtl](7584cf88-ba00-4a62-96ab-c13314333802)}: The importer version is lower than asset
+2022-06-20 12:04:01-warn: [Asset DB] Importer exec warning: {asset[C:\Users\king\Documents\Bootcamp-AthenaStudio-TranGiaKiet\basket-boy\assets\materials\+1.png](825365bd-a9a7-4333-80c9-189fff17880a)}: The importer version is lower than asset
+2022-06-20 12:04:01-warn: [Asset DB] Importer exec warning: {asset[C:\Users\king\Documents\Bootcamp-AthenaStudio-TranGiaKiet\basket-boy\assets\materials\+3.png](93f9783e-48b0-4561-8108-a129185ee8a1)}: The importer version is lower than asset
+2022-06-20 12:04:01-warn: [Asset DB] Importer exec warning: {asset[C:\Users\king\Documents\Bootcamp-AthenaStudio-TranGiaKiet\basket-boy\assets\materials\Background.png](5cbcc4c8-c8b6-4034-ab51-899765858a6d)}: The importer version is lower than asset
+2022-06-20 12:04:01-warn: [Asset DB] Importer exec warning: {asset[C:\Users\king\Documents\Bootcamp-AthenaStudio-TranGiaKiet\basket-boy\assets\materials\Ball.png](c3b52c99-d084-42a0-a1ff-c5a8201ab8f4)}: The importer version is lower than asset
+2022-06-20 12:04:01-warn: [Asset DB] Importer exec warning: {asset[C:\Users\king\Documents\Bootcamp-AthenaStudio-TranGiaKiet\basket-boy\assets\materials\Basket-1.png](fbb47389-27e4-4c9a-897b-d1588ae4f97b)}: The importer version is lower than asset
+2022-06-20 12:04:02-warn: [Asset DB] Importer exec warning: {asset[C:\Users\king\Documents\Bootcamp-AthenaStudio-TranGiaKiet\basket-boy\assets\materials\basket-2.png](8d72d9d0-52c6-495b-8bf2-af82a666df71)}: The importer version is lower than asset
+2022-06-20 12:04:02-warn: [Asset DB] Importer exec warning: {asset[C:\Users\king\Documents\Bootcamp-AthenaStudio-TranGiaKiet\basket-boy\assets\materials\chain.png](b98a9994-b3be-4c50-b689-71ba336f8525)}: The importer version is lower than asset
+2022-06-20 12:04:02-warn: [Asset DB] Importer exec warning: {asset[C:\Users\king\Documents\Bootcamp-AthenaStudio-TranGiaKiet\basket-boy\assets\materials\clean shot.png](a95ca121-dd32-4f24-a82d-10f3f1554daf)}: The importer version is lower than asset
+2022-06-20 12:04:02-warn: [Asset DB] Importer exec warning: {asset[C:\Users\king\Documents\Bootcamp-AthenaStudio-TranGiaKiet\basket-boy\assets\materials\da8zpnz-c64b3656-5710-49c1-876f-26edc2997895.png](ce9c3c9f-ea5e-4ba8-a130-8c33427a85d4)}: The importer version is lower than asset
+2022-06-20 12:04:08-warn: [Asset DB] Importer exec warning: {asset[C:\Users\king\Documents\Bootcamp-AthenaStudio-TranGiaKiet\basket-boy\assets\materials\dribble-01.png](f275ccb0-477b-4794-8063-9bbe4097482a)}: The importer version is lower than asset
+2022-06-20 12:04:08-warn: [Asset DB] Importer exec warning: {asset[C:\Users\king\Documents\Bootcamp-AthenaStudio-TranGiaKiet\basket-boy\assets\materials\dribble-02.png](9a67a83a-ba72-45a9-b1fb-26f9829799c5)}: The importer version is lower than asset
+2022-06-20 12:04:08-warn: [Asset DB] Importer exec warning: {asset[C:\Users\king\Documents\Bootcamp-AthenaStudio-TranGiaKiet\basket-boy\assets\materials\dribble-03.png](9e4ff3a0-f7a6-4797-8801-e0c77274d8d0)}: The importer version is lower than asset
+2022-06-20 12:04:09-warn: [Asset DB] Importer exec warning: {asset[C:\Users\king\Documents\Bootcamp-AthenaStudio-TranGiaKiet\basket-boy\assets\materials\throw-01.png](7db0c5d4-e86f-46b7-af40-004e9898c2ac)}: The importer version is lower than asset
+2022-06-20 12:04:09-warn: [Asset DB] Importer exec warning: {asset[C:\Users\king\Documents\Bootcamp-AthenaStudio-TranGiaKiet\basket-boy\assets\materials\throw-02.png](0152b412-dd63-4e66-a1b1-ec0b45530df0)}: The importer version is lower than asset
+2022-06-20 12:04:09-warn: [Asset DB] Importer exec warning: {asset[C:\Users\king\Documents\Bootcamp-AthenaStudio-TranGiaKiet\basket-boy\assets\materials\throw-03.png](ae7436c9-e4f3-48c0-b949-8cdd49f7a3fa)}: The importer version is lower than asset
+2022-06-20 12:04:09-warn: [Asset DB] Importer exec warning: {asset[C:\Users\king\Documents\Bootcamp-AthenaStudio-TranGiaKiet\basket-boy\assets\materials\throw-04.png](c505095a-3cca-4a7f-970a-f9dc38c21039)}: The importer version is lower than asset
+2022-06-20 12:04:09-warn: [Asset DB] Importer exec warning: {asset[C:\Users\king\Documents\Bootcamp-AthenaStudio-TranGiaKiet\basket-boy\assets\materials\throw-05.png](0a9eb102-3e1c-4961-97c1-c96be0d02020)}: The importer version is lower than asset
+2022-06-20 12:04:09-warn: [Asset DB] Importer exec warning: {asset[C:\Users\king\Documents\Bootcamp-AthenaStudio-TranGiaKiet\basket-boy\assets\materials\throw-06.png](c0f73fde-57d2-470e-b650-a18aeca9a93b)}: The importer version is lower than asset
+2022-06-20 12:04:09-warn: [Asset DB] Importer exec warning: {asset[C:\Users\king\Documents\Bootcamp-AthenaStudio-TranGiaKiet\basket-boy\assets\materials\throw-07.png](4dd108bb-1adc-4a06-987e-f8391cb9431a)}: The importer version is lower than asset
+2022-06-20 12:04:09-warn: [Asset DB] Importer exec warning: {asset[C:\Users\king\Documents\Bootcamp-AthenaStudio-TranGiaKiet\basket-boy\assets\materials\White.png](7df68d72-f5e7-4e7d-a356-3676cee097c3)}: The importer version is lower than asset
+2022-06-20 12:04:10-warn: [Asset DB] Importer exec warning: {asset[C:\Users\king\Documents\Bootcamp-AthenaStudio-TranGiaKiet\basket-boy\assets\prefabs\ball.prefab](52a28d81-9046-4bc4-ba49-6b5cbb6290a6)}: The importer version is lower than asset
+2022-06-20 12:04:10-warn: [Asset DB] Importer exec warning: {asset[C:\Users\king\Documents\Bootcamp-AthenaStudio-TranGiaKiet\basket-boy\assets\prefabs\basket.prefab](cd515199-a1f0-4215-8f05-342d65dda4c4)}: The importer version is lower than asset
+2022-06-20 12:04:10-warn: [Asset DB] Importer exec warning: {asset[C:\Users\king\Documents\Bootcamp-AthenaStudio-TranGiaKiet\basket-boy\assets\prefabs\Board.prefab](af09a0d6-ff08-464a-9916-1de34ef1d177)}: The importer version is lower than asset
+2022-06-20 12:04:10-warn: [Asset DB] Importer exec warning: {asset[C:\Users\king\Documents\Bootcamp-AthenaStudio-TranGiaKiet\basket-boy\assets\prefabs\trajectoryDot.prefab](f1094cff-5460-48e1-8d88-16da851eacf6)}: The importer version is lower than asset
+2022-06-20 12:04:10-warn: [Asset DB] Importer exec warning: {asset[C:\Users\king\Documents\Bootcamp-AthenaStudio-TranGiaKiet\basket-boy\assets\scenes\playScene.scene](27270547-1edf-4822-a552-32f637257353)}: The importer version is lower than asset
+2022-06-20 12:04:10-warn: [Asset DB] Importer exec warning: {asset[C:\Users\king\Documents\Bootcamp-AthenaStudio-TranGiaKiet\basket-boy\assets\scripts\ball.ts](004469f1-3be9-4181-9df8-6423a0b93c15)}: The importer version is lower than asset
+2022-06-20 12:04:10-warn: [Asset DB] Importer exec warning: {asset[C:\Users\king\Documents\Bootcamp-AthenaStudio-TranGiaKiet\basket-boy\assets\scripts\basket.ts](8cb20b98-795e-49ad-9594-fa1c769d018e)}: The importer version is lower than asset
+2022-06-20 12:04:10-warn: [Asset DB] Importer exec warning: {asset[C:\Users\king\Documents\Bootcamp-AthenaStudio-TranGiaKiet\basket-boy\assets\scripts\gameManager.ts](7bc2f3ce-4dc2-4fee-86fa-745de8808e8c)}: The importer version is lower than asset
+2022-06-20 12:04:10-warn: [Asset DB] Importer exec warning: {asset[C:\Users\king\Documents\Bootcamp-AthenaStudio-TranGiaKiet\basket-boy\assets\scripts\player.ts](3e41ab79-fe4e-457d-9614-2a5555fa8994)}: The importer version is lower than asset
+2022-06-20 12:04:10-warn: [Asset DB] Importer exec warning: {asset[C:\Users\king\Documents\Bootcamp-AthenaStudio-TranGiaKiet\basket-boy\assets\scripts\trajectory.ts](88b1b77d-5094-4391-aba7-afaa0d4ed2b2)}: The importer version is lower than asset
+2022-06-20 12:04:10-warn: Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+
+Why you should do it regularly:
+https://github.com/browserslist/browserslist#browsers-data-updating
+2022-06-20 12:04:15-log: [Scene] begin init
+2022-06-20 12:04:15-log: [Scene] require engine end
+2022-06-20 12:04:15-log: [Scene] Serialize end
+2022-06-20 12:04:15-log: [Scene] configureStartup end
+2022-06-20 12:04:15-warn: [Scene] This device does not support WebGL2.
+2022-06-20 12:04:15-info: [Scene] WebGL device initialized.
+2022-06-20 12:04:16-log: [Scene] Cocos Creator v3.3.2
+2022-06-20 12:04:18-warn: [Scene] The type of "Trajectory.dotsNum" must be CCFloat or CCInteger, not Number.
+2022-06-20 12:04:18-warn: [Scene] The type of "Trajectory.dotSpace" must be CCFloat or CCInteger, not Number.
+2022-06-20 12:04:18-info: [Scene] Forward render pipeline initialized.
+2022-06-20 12:04:20-log: [Scene] openEngine end
+2022-06-20 12:04:20-log: [Scene] configureEngine end
+2022-06-20 12:04:23-warn: [Scene] The type of "Trajectory.dotsNum" must be CCFloat or CCInteger, not Number.
+2022-06-20 12:04:23-warn: [Scene] The type of "Trajectory.dotSpace" must be CCFloat or CCInteger, not Number.
+2022-06-20 12:07:01-warn: [Build] The type of "Trajectory.dotsNum" must be CCFloat or CCInteger, not Number.
+2022-06-20 12:07:01-warn: [Build] The type of "Trajectory.dotSpace" must be CCFloat or CCInteger, not Number.
+2022-06-20 12:07:01-warn: [Build] Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+2022-06-20 12:07:03-warn: [Build] Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+
+Why you should do it regularly:
+https://github.com/browserslist/browserslist#browsers-data-updating
+2022-06-20 12:07:15-warn: [Build] [[Build.Script.Rollup]] Circular dependency: file:///C:/Users/king/Documents/Bootcamp-AthenaStudio-TranGiaKiet/basket-boy/assets/scripts/ball.ts -> file:///C:/Users/king/Documents/Bootcamp-AthenaStudio-TranGiaKiet/basket-boy/assets/scripts/gameManager.ts -> file:///C:/Users/king/Documents/Bootcamp-AthenaStudio-TranGiaKiet/basket-boy/assets/scripts/ball.ts

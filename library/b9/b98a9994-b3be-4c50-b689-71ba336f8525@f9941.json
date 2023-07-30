@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chain",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 20,
+      "height": 109
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 20,
+      "height": 109
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "b98a9994-b3be-4c50-b689-71ba336f8525@6c48a",
+    "packable": true
+  }
+}

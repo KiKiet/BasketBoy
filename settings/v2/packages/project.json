@@ -1,0 +1,42 @@
+{
+  "__version__": "1.0.1",
+  "general": {
+    "designResolution": {
+      "width": 1080,
+      "height": 1920,
+      "fitHeight": true
+    }
+  },
+  "physics": {
+    "gravity": {
+      "y": -15
+    }
+  },
+  "fbx": {
+    "legacyFbxImporter": {
+      "visible": true
+    }
+  },
+  "layer": [
+    {
+      "name": "Camera",
+      "value": 1
+    },
+    {
+      "name": "Ball",
+      "value": 4
+    },
+    {
+      "name": "Basket",
+      "value": 2
+    },
+    {
+      "name": "Board",
+      "value": 8
+    },
+    {
+      "name": "Background",
+      "value": 16
+    }
+  ]
+}

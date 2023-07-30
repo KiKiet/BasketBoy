@@ -1,0 +1,538 @@
+{
+  "C:\\Users\\king\\BasketBoy\\assets\\scenes.meta": {
+    "time": 1644825413318.1255
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\scenes": {
+    "time": 1644981330207.3076,
+    "uuid": "876f8949-4c29-48d1-9230-fbf36ea2cfd1",
+    "missing": false
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\prefabs.meta": {
+    "time": 1644825440710.9724
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\prefabs": {
+    "time": 1645978175784.0195,
+    "uuid": "01a33089-3728-40a1-9295-6d6a652cc594",
+    "missing": false
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\materials.meta": {
+    "time": 1644825469840.9646
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\materials": {
+    "time": 1646036267847.2612,
+    "uuid": "6dcc0e5d-8d9b-4c34-99b6-a75bc0899a72",
+    "missing": false
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\sounds.meta": {
+    "time": 1644825488197.8882
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\sounds": {
+    "time": 1645983061768.2422,
+    "uuid": "0f6f159a-8673-4ea2-ad04-9608822cd443",
+    "missing": false
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\materials\\White.png.meta": {
+    "time": 1637145707000
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\materials\\White.png": {
+    "time": 1634206902000,
+    "uuid": "7df68d72-f5e7-4e7d-a356-3676cee097c3",
+    "missing": false
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\materials\\Circle.png.meta": {
+    "time": 1637145707000
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\materials\\Circle.png": {
+    "time": 1626087008000,
+    "uuid": "0169ff8b-0a7e-4241-94b7-b57bf2a4b688",
+    "missing": true
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\scripts.meta": {
+    "time": 1644829199493.1675
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\scripts": {
+    "time": 1645957315336.0566,
+    "uuid": "bdfc919e-7d36-416d-81ab-63a093511533",
+    "missing": false
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\scripts\\ball.ts.meta": {
+    "time": 1644829244268.6467
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\scripts\\ball.ts": {
+    "time": 1646033245636.3562,
+    "uuid": "004469f1-3be9-4181-9df8-6423a0b93c15",
+    "missing": false
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\scenes\\playScene.scene.meta": {
+    "time": 1644832881341.2795
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\scenes\\playScene.scene": {
+    "time": 1646038837293.6868,
+    "uuid": "27270547-1edf-4822-a552-32f637257353",
+    "missing": false
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\materials\\box.png.meta": {
+    "time": 1644995651009.212
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\materials\\box.png": {
+    "time": 1644995649024.3958,
+    "uuid": "cda9905c-c9da-4369-93f5-a603249bdf0d",
+    "missing": true
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\scripts\\gameManager.ts.meta": {
+    "time": 1645082672363.5752
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\scripts\\gameManager.ts": {
+    "time": 1646038831406.3074,
+    "uuid": "7bc2f3ce-4dc2-4fee-86fa-745de8808e8c",
+    "missing": false
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\prefabs\\ball.prefab.meta": {
+    "time": 1645178896338.3765
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\prefabs\\ball.prefab": {
+    "time": 1645982413738.6616,
+    "uuid": "3e1e7696-15fc-472e-8fa9-d9876c29365b",
+    "missing": true
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\scripts\\basket.ts.meta": {
+    "time": 1645431882121.4294
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\scripts\\basket.ts": {
+    "time": 1645983368608.9863,
+    "uuid": "8cb20b98-795e-49ad-9594-fa1c769d018e",
+    "missing": false
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\prefabs\\basket.prefab.meta": {
+    "time": 1645433015039.3296
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\prefabs\\basket.prefab": {
+    "time": 1646028828148.0566,
+    "uuid": "cd515199-a1f0-4215-8f05-342d65dda4c4",
+    "missing": false
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\materials\\da8zpnz-c64b3656-5710-49c1-876f-26edc2997895.png": {
+    "time": 1645592441759.607,
+    "uuid": "ce9c3c9f-ea5e-4ba8-a130-8c33427a85d4",
+    "missing": false
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\materials\\da8zpnz-c64b3656-5710-49c1-876f-26edc2997895.png.meta": {
+    "time": 1645603372754.5952
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\prefabs\\trajectoryDot.prefab.meta": {
+    "time": 1645619679673.0745
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\prefabs\\trajectoryDot.prefab": {
+    "time": 1645619679658.083,
+    "uuid": "f1094cff-5460-48e1-8d88-16da851eacf6",
+    "missing": false
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\scripts\\trajectory.ts.meta": {
+    "time": 1645619716535.8323
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\scripts\\trajectory.ts": {
+    "time": 1645972780210.9937,
+    "uuid": "88b1b77d-5094-4391-aba7-afaa0d4ed2b2",
+    "missing": false
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\sounds\\mixkit-basketball-ball-bouncing-2085.wav.meta": {
+    "time": 1645982048526.8481
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\sounds\\mixkit-basketball-ball-bouncing-2085.wav": {
+    "time": 1645982019432.2295,
+    "uuid": "61654bc4-3785-45cd-b3c7-4c678862c084",
+    "missing": false
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\sounds\\Blastwave_FX_BasketballShoot_S08SP.87.mp3.meta": {
+    "time": 1645983061820.7236
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\sounds\\Blastwave_FX_BasketballShoot_S08SP.87.mp3": {
+    "time": 1645983054141.8826,
+    "uuid": "63aeb137-96c4-416f-83ad-1c4e722add49",
+    "missing": false
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\materials\\BasketBoy_texture_0.png.meta": {
+    "time": 1646036405474.7444
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\materials\\BasketBoy_texture_0.png": {
+    "time": 1646036246362.8115,
+    "uuid": "a30c14b8-761c-4532-97a3-f43430f65891",
+    "missing": true
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\json.meta": {
+    "time": 1646038201583.4993
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\json": {
+    "time": 1646038252100.8635,
+    "uuid": "29c2c5c3-2b0d-4b85-acf5-dee06be5f74c",
+    "missing": false
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\json\\game_data.txt.meta": {
+    "time": 1646038252181.8157
+  },
+  "C:\\Users\\king\\BasketBoy\\assets\\json\\game_data.txt": {
+    "time": 1646038248537.0562,
+    "uuid": "b1481244-f749-425d-a60e-5a4531f02bb5",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\animation": {
+    "time": 1655701044417.7063,
+    "uuid": "89a4ceb6-d800-438a-9e08-f7d3ea111e4a",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\json": {
+    "time": 1646038252100.8596,
+    "uuid": "29c2c5c3-2b0d-4b85-acf5-dee06be5f74c",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\material.mtl": {
+    "time": 1655701044426.6992,
+    "uuid": "7584cf88-ba00-4a62-96ab-c13314333802",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\materials": {
+    "time": 1655701045028.8154,
+    "uuid": "6dcc0e5d-8d9b-4c34-99b6-a75bc0899a72",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\prefabs": {
+    "time": 1655701045131.7505,
+    "uuid": "01a33089-3728-40a1-9295-6d6a652cc594",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\scenes": {
+    "time": 1655701045164.7314,
+    "uuid": "876f8949-4c29-48d1-9230-fbf36ea2cfd1",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\scripts": {
+    "time": 1655701045322.635,
+    "uuid": "bdfc919e-7d36-416d-81ab-63a093511533",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\sounds": {
+    "time": 1645983061768.2292,
+    "uuid": "0f6f159a-8673-4ea2-ad04-9608822cd443",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\animation\\Ball.anim": {
+    "time": 1655701044348.748,
+    "uuid": "87c1f421-3318-49c7-8251-6325f6d7e4e7",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\animation\\BeingThrow.anim": {
+    "time": 1655701044367.739,
+    "uuid": "a965b5a8-15b3-4033-96f7-5b4d5d154424",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\animation\\dribble.anim": {
+    "time": 1655701044389.7236,
+    "uuid": "39c36b9d-c24b-4d64-a19e-bc6b12ab9c34",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\animation\\throw.anim": {
+    "time": 1655701044409.7107,
+    "uuid": "71c2f39f-0475-40cb-8a1b-1c4282b87aa4",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\json\\game_data.txt": {
+    "time": 1646038248537.0562,
+    "uuid": "b1481244-f749-425d-a60e-5a4531f02bb5",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\materials\\+1.png": {
+    "time": 1655701044445.6892,
+    "uuid": "825365bd-a9a7-4333-80c9-189fff17880a",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\materials\\+3.png": {
+    "time": 1655701044467.4436,
+    "uuid": "93f9783e-48b0-4561-8108-a129185ee8a1",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\materials\\Background.png": {
+    "time": 1655701044532.924,
+    "uuid": "5cbcc4c8-c8b6-4034-ab51-899765858a6d",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\materials\\Ball.png": {
+    "time": 1655701044558.907,
+    "uuid": "c3b52c99-d084-42a0-a1ff-c5a8201ab8f4",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\materials\\Basket-1.png": {
+    "time": 1655701044581.893,
+    "uuid": "fbb47389-27e4-4c9a-897b-d1588ae4f97b",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\materials\\basket-2.png": {
+    "time": 1655701044616.87,
+    "uuid": "8d72d9d0-52c6-495b-8bf2-af82a666df71",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\materials\\chain.png": {
+    "time": 1655701044641.8552,
+    "uuid": "b98a9994-b3be-4c50-b689-71ba336f8525",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\materials\\clean shot.png": {
+    "time": 1655701044673.8345,
+    "uuid": "a95ca121-dd32-4f24-a82d-10f3f1554daf",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\materials\\da8zpnz-c64b3656-5710-49c1-876f-26edc2997895.png": {
+    "time": 1645592441759.607,
+    "uuid": "ce9c3c9f-ea5e-4ba8-a130-8c33427a85d4",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\materials\\dribble-01.png": {
+    "time": 1655701044715.8088,
+    "uuid": "f275ccb0-477b-4794-8063-9bbe4097482a",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\materials\\dribble-02.png": {
+    "time": 1655701044747.7883,
+    "uuid": "9a67a83a-ba72-45a9-b1fb-26f9829799c5",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\materials\\dribble-03.png": {
+    "time": 1655701044777.77,
+    "uuid": "9e4ff3a0-f7a6-4797-8801-e0c77274d8d0",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\materials\\throw-01.png": {
+    "time": 1655701044809.752,
+    "uuid": "7db0c5d4-e86f-46b7-af40-004e9898c2ac",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\materials\\throw-02.png": {
+    "time": 1655701044843.9287,
+    "uuid": "0152b412-dd63-4e66-a1b1-ec0b45530df0",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\materials\\throw-03.png": {
+    "time": 1655701044871.9111,
+    "uuid": "ae7436c9-e4f3-48c0-b949-8cdd49f7a3fa",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\materials\\throw-04.png": {
+    "time": 1655701044902.8928,
+    "uuid": "c505095a-3cca-4a7f-970a-f9dc38c21039",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\materials\\throw-05.png": {
+    "time": 1655701044943.868,
+    "uuid": "0a9eb102-3e1c-4961-97c1-c96be0d02020",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\materials\\throw-06.png": {
+    "time": 1655701044972.849,
+    "uuid": "c0f73fde-57d2-470e-b650-a18aeca9a93b",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\materials\\throw-07.png": {
+    "time": 1655701045013.8235,
+    "uuid": "4dd108bb-1adc-4a06-987e-f8391cb9431a",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\materials\\White.png": {
+    "time": 1634206902000,
+    "uuid": "7df68d72-f5e7-4e7d-a356-3676cee097c3",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\prefabs\\ball.prefab": {
+    "time": 1655701450065.8914,
+    "uuid": "52a28d81-9046-4bc4-ba49-6b5cbb6290a6",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\prefabs\\basket.prefab": {
+    "time": 1655701045089.7764,
+    "uuid": "cd515199-a1f0-4215-8f05-342d65dda4c4",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\prefabs\\Board.prefab": {
+    "time": 1655701045041.807,
+    "uuid": "af09a0d6-ff08-464a-9916-1de34ef1d177",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\prefabs\\trajectoryDot.prefab": {
+    "time": 1655701045116.7607,
+    "uuid": "f1094cff-5460-48e1-8d88-16da851eacf6",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\scenes\\playScene.scene": {
+    "time": 1655701045149.74,
+    "uuid": "27270547-1edf-4822-a552-32f637257353",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\scripts\\ball.ts": {
+    "time": 1655701045175.7231,
+    "uuid": "004469f1-3be9-4181-9df8-6423a0b93c15",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\scripts\\basket.ts": {
+    "time": 1655701045201.7073,
+    "uuid": "8cb20b98-795e-49ad-9594-fa1c769d018e",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\scripts\\gameManager.ts": {
+    "time": 1655701045244.6814,
+    "uuid": "7bc2f3ce-4dc2-4fee-86fa-745de8808e8c",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\scripts\\player.ts": {
+    "time": 1655701045286.656,
+    "uuid": "3e41ab79-fe4e-457d-9614-2a5555fa8994",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\scripts\\trajectory.ts": {
+    "time": 1645972780210.9937,
+    "uuid": "88b1b77d-5094-4391-aba7-afaa0d4ed2b2",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\sounds\\Blastwave_FX_BasketballShoot_S08SP.87.mp3": {
+    "time": 1645983054141.8826,
+    "uuid": "63aeb137-96c4-416f-83ad-1c4e722add49",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\sounds\\mixkit-basketball-ball-bouncing-2085.wav": {
+    "time": 1645982019432.2295,
+    "uuid": "61654bc4-3785-45cd-b3c7-4c678862c084",
+    "missing": false
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\animation.meta": {
+    "time": 1655701044333.7583
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\json.meta": {
+    "time": 1646038201583.4993
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\materials.meta": {
+    "time": 1644825469840.9646
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\prefabs.meta": {
+    "time": 1644825440710.9724
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\scenes.meta": {
+    "time": 1644825413318.1255
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\scripts.meta": {
+    "time": 1644829199493.1675
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\sounds.meta": {
+    "time": 1644825488197.8882
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\animation\\Ball.anim.meta": {
+    "time": 1655701044358.7412
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\animation\\BeingThrow.anim.meta": {
+    "time": 1655701044379.7273
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\animation\\throw.anim.meta": {
+    "time": 1655701044417.7063
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\material.mtl.meta": {
+    "time": 1655701441632.9502
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\animation\\dribble.anim.meta": {
+    "time": 1655701044398.7175
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\json\\game_data.txt.meta": {
+    "time": 1646038252181.8157
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\materials\\+3.png.meta": {
+    "time": 1655701442210.2217
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\materials\\+1.png.meta": {
+    "time": 1655701442227.211
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\materials\\Ball.png.meta": {
+    "time": 1655701442234.207
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\materials\\Basket-1.png.meta": {
+    "time": 1655701442253.1943
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\materials\\Background.png.meta": {
+    "time": 1655701448866.8909
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\materials\\clean shot.png.meta": {
+    "time": 1655701448875.886
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\materials\\basket-2.png.meta": {
+    "time": 1655701448887.8792
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\materials\\chain.png.meta": {
+    "time": 1655701448892.8792
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\materials\\da8zpnz-c64b3656-5710-49c1-876f-26edc2997895.png.meta": {
+    "time": 1655701449184.8242
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\materials\\throw-01.png.meta": {
+    "time": 1655701449589.8809
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\materials\\dribble-03.png.meta": {
+    "time": 1655701449599.8745
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\materials\\dribble-02.png.meta": {
+    "time": 1655701449615.8965
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\materials\\dribble-01.png.meta": {
+    "time": 1655701449731.9734
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\materials\\throw-02.png.meta": {
+    "time": 1655701449855.8987
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\materials\\throw-03.png.meta": {
+    "time": 1655701449900.913
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\materials\\throw-04.png.meta": {
+    "time": 1655701450021.9185
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\materials\\throw-05.png.meta": {
+    "time": 1655701450026.9182
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\materials\\throw-06.png.meta": {
+    "time": 1655701450054.8994
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\prefabs\\basket.prefab.meta": {
+    "time": 1655701450069.8894
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\prefabs\\Board.prefab.meta": {
+    "time": 1655701450124.908
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\prefabs\\ball.prefab.meta": {
+    "time": 1655701450133.9036
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\scripts\\ball.ts.meta": {
+    "time": 1655701450139.8987
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\scripts\\basket.ts.meta": {
+    "time": 1655701450146.8945
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\scripts\\gameManager.ts.meta": {
+    "time": 1655701450153.8909
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\prefabs\\trajectoryDot.prefab.meta": {
+    "time": 1655701450199.8599
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\scripts\\player.ts.meta": {
+    "time": 1655701450264.911
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\scenes\\playScene.scene.meta": {
+    "time": 1655701450268.91
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\scripts\\trajectory.ts.meta": {
+    "time": 1655701450288.8977
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\materials\\throw-07.png.meta": {
+    "time": 1655701450297.8916
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\materials\\White.png.meta": {
+    "time": 1655701450391.8716
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\sounds\\mixkit-basketball-ball-bouncing-2085.wav.meta": {
+    "time": 1645982048526.8481
+  },
+  "C:\\Users\\king\\Documents\\Bootcamp-AthenaStudio-TranGiaKiet\\basket-boy\\assets\\sounds\\Blastwave_FX_BasketballShoot_S08SP.87.mp3.meta": {
+    "time": 1645983061820.7236
+  }
+}
